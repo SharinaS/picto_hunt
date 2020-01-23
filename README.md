@@ -1,5 +1,5 @@
 # PictoHunt
-A fun and interactive mobile app game built with JavaScript and Node.js. It utilizes Google Vision API, a PostGreSQL database, EJS, Express and a camera phone. A user is assigned a item to find, and if the item they take a picture of matches that assignment, the user gains points.  
+A fun and interactive mobile-first game built with JavaScript and Node.js. It utilizes Google Vision API, a PostGreSQL database, EJS, Express and a camera phone. A user is assigned a item to find, and if the item they take a picture of matches that assignment, the user gains points.  
 
 ![screenshot of page](img/home.png)
 
