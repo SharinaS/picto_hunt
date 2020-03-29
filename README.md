@@ -6,6 +6,9 @@ A fun and interactive mobile-first game built with JavaScript and Node.js. It ut
 ### Designed and Built by the Rooftop Collective
 Peter Carmicheal, James Dansie, Julie Erlemeier, Sharina Stubbs.
 
+### Demo of the App
+Watch a short demo on YouTube: https://www.youtube.com/watch?v=0ZAuaZsf5nQ
+
 ### A Code Fellows 301-Intermediate Software Development Project.
 Teaching Staff: Nicholar Carignan (Lead Instructor), Lena Eivy (Assistant Instructor), Dan Le (Teaching Assistant).
 
